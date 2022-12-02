@@ -1,2 +1,2 @@
-# This plugin is CS.Center is coded for official deathmatch servers.
-- You need to organize the fields according to yourself.
+# Counter-Strike Global Offensive için hazırlanmış açık kaynak eklenti kodlarını bulabilirsiniz.
+# You can find open source add-on codes prepared for Counter-Strike Global Offensive.
